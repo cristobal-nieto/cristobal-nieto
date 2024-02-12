@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Cristóbal</h1>
-- Contacto **cristobalnieto94@gmail.com**
+-
 
 <h3 align="left">Connect with me:</h3>
 cristobalnieto94@gmail.com
